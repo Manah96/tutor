@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Gilroy-reg';
+  src: local(Gilroy Regular), local(Gilroy-Regular),
+      url(gilroy-reg/Gilroy-Regular.woff2) format('woff2'),
+      url(gilroy-reg/Gilroy-Regular.woff) format('woff'),
+      url(gilroy-reg/Gilroy-Regular.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Golos-med';
+	src:
+		url(golos-med/Golos-Text_Medium.woff2) format('woff2'),
+		url(golos-med/Golos-Text_Medium.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Golos-reg';
+	src:
+		url(golos-reg/Golos-Text_Regular.woff2) format('woff2'),
+		url(golos-reg/Golos-Text_Regular.woff) format('woff'),
+		url(golos-reg/Golos-text_Regular.html) format('html');
+	font-weight: normal;
+	font-style: normal;
+}
